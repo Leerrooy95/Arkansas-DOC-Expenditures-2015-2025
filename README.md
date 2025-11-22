@@ -8,7 +8,7 @@ This repository presents the first complete public compilation of official expen
 
 ### The Key Fact
 **FY 2024 total expenditures: $469,289,163**  
-— ADC FY24 Annual Report, page 8 (screenshot below)
+— ADC FY24 Annual Report, page 8 Screenshots in Files as 'img-'
 
 Arkansas spent **nearly the entire cost** of the proposed new 3,000-bed prison **in a single year of operations** — while simultaneously telling legislators and the public that the state “cannot afford to delay” construction due to lack of funds.
 
