@@ -14,7 +14,7 @@ Arkansas spent **nearly the entire cost** of the proposed new 3,000-bed prison *
 
 ### Quick View: Ten-Year Expenditure Trend (ADC’s own numbers)
 
-![Arkansas DOC Expenditures 2015–2025](expenditure-timeline.png)
+![Arkansas DOC Expenditures 2015–2025]
 
 | Fiscal Year | Total Expenditures    | Notes |
 |-------------|-----------------------|-------|
