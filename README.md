@@ -6,6 +6,9 @@ https://zenodo.org/records/17663528
 
 This repository presents the first complete public compilation of official expenditure figures published by the Arkansas Division of Correction (ADC) and Division of Community Correction (ACC) from FY2015 through FY2025 — extracted from 287 state reports.
 
+**Visuals**
+1000004948 (663×330)
+
 ### The Key Fact
 **FY 2024 total expenditures: $469,289,163**  
 — ADC FY24 Annual Report, page 8 
