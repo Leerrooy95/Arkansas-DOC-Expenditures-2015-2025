@@ -12,20 +12,23 @@ This repository presents the first complete public compilation of official expen
 
 Arkansas spent **nearly the entire cost** of the proposed new 3,000-bed prison **in a single year of operations** — while simultaneously telling legislators and the public that the state “cannot afford to delay” construction due to lack of funds.
 
-### Ten-Year Expenditure Summary (ADC’s own published figures)
-| Fiscal Year | Total Expenditures    |
-|-------------|-----------------------|
-| 2024        | **$469,289,163**      |
-| 2023        | $434,337,302          |
-| 2022        | $417,506,575          |
-| 2021        | $392,181,404          |
-| 2020        | $380,489,377          |
-| 2019        | $375,058,996          |
-| 2018        | $366,102,656          |
-| 2017        | $365,782,232          |
-| 2016        | $363,825,884          |
-| 2015        | $359,869,988          |
-| **Total**   | **$4,192,494,725**    |
+### Quick View: Ten-Year Expenditure Trend (ADC’s own numbers)
+
+![Arkansas DOC Expenditures 2015–2025](expenditure-timeline.png)
+
+| Fiscal Year | Total Expenditures    | Notes |
+|-------------|-----------------------|-------|
+| 2024        | **$469,289,163**      | More than the entire proposed new prison |
+| 2023        | $434,337,302          |       |
+| 2022        | $417,506,575          |       |
+| 2021        | $392,181,404          |       |
+| 2020        | $380,489,377          |       |
+| 2019        | $375,058,996          |       |
+| 2018        | $366,102,656          |       |
+| 2017        | $365,782,232          |       |
+| 2016        | $363,825,884          |       |
+| 2015        | $359,869,988          |       |
+| **Total**   | **$4,192,494,725**    |       |
 
 ### “Savings” vs. Reality (FY24)
 - Inmate agricultural production: **$5.06 million** (1.1 % of budget)  
