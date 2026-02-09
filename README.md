@@ -83,7 +83,7 @@ All figures are sourced directly from ADC annual reports. No external estimates 
 ```
 Arkansas-DOC-Expenditures-2015-2025/
 ├── README.md                                  # This file
-├── Arkansas_DOC_Financials_FULL_2025.csv       # 29,337 extractions from 287 reports
+├── Arkansas_DOC_Financials_FULL_2025.csv       # 29,336 data rows from 287 reports
 ├── FY24-Annual-Report-FINAL.pdf               # Official source of the $469M figure
 ├── sources.txt                                # Contact for full 8 GB archive of 287 PDFs
 └── Copilot_Opus_4.6_Analysis/                 # Independent verification workstation
@@ -105,7 +105,7 @@ All core expenditure figures have been independently verified. See [`Copilot_Opu
 | Ten-year ADC sum: $3.92 billion | ✅ Arithmetic verified |
 | Proposed prison cost: $825 million | ✅ Verified (DOC, Arkansas Advocate, KATV) |
 | Revenue offsets: ~4% of budget | ✅ Verified (FY24 Annual Report) |
-| Dataset: 29,337 rows from 287 reports | ✅ Verified |
+| Dataset: 29,336 data rows from 287 reports | ✅ Verified |
 
 ### Independent Corroboration
 
@@ -119,7 +119,7 @@ The [Arkansas Advocate](https://arkansasadvocate.com/) began covering Arkansas p
 ## Methodology
 
 1. **Source documents**: 287 official PDF reports published by the Arkansas Division of Correction (FY2015–FY2025), obtained from [doc.arkansas.gov](https://doc.arkansas.gov/)
-2. **Extraction**: OCR-based text extraction producing 29,337 structured rows
+2. **Extraction**: OCR-based text extraction producing 29,336 structured data rows
 3. **Verification**: Key figures cross-checked against official annual reports and independent news coverage
 4. **Transparency**: Full 8 GB archive of all 287 source PDFs preserved on [Zenodo](https://zenodo.org/records/17663528) for reproducibility
 

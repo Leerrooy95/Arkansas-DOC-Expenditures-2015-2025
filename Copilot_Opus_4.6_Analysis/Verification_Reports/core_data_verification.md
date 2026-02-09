@@ -75,7 +75,7 @@ All primary expenditure figures cited in this repository have been independently
 
 | Metric | Value | Status |
 |--------|-------|--------|
-| Total rows | 29,337 (incl. header) | ✅ Verified |
+| Total rows | 29,337 (29,336 data + 1 header) | ✅ Verified |
 | Columns | `source_file`, `keyword`, `context`, `top_dollars_in_doc` | ✅ Verified |
 | Source reports referenced | 287 PDFs | ✅ Matches repo claim |
 
